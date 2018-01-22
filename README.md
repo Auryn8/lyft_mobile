@@ -16,7 +16,10 @@ Desarrolla una web-app que replique el sitio de Lyft, en este reto deberás cump
 
 - Ya que se ha realizado lo anterior, sólo se deberá mostrar una vista al usuario que le indique que ha concluido con el registro exitosamente. 
 
+![Sketch de flujo de Lyft](../assets/images/lyft_sketch_flujo.jpg)
+
+
 
 ### Observaciones
 
-* Se intentó darle funcionalidad con el plug-in JQuery mobile, pues al ser una app móvil hace más sentido que los eventos sean "touch" en vez de "click" o "mouse", pero por tiempos y prioridades se quedará como propuesta para segundo alcance.
+* Se intentó darle funcionalidad con el plug-in JQuery mobile, pues al ser una app móvil hace más sentido que los eventos sean "touch" en vez de "click" o "mouse", pero por tiempos y prioridades se quedará como propuesta para segundo alcance.*
