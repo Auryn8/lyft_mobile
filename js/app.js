@@ -1,10 +1,11 @@
- /* Vista Splash*/ 
-$(document).ready(function() {
-  setTimeout(function() {
-    window.location.href = '';
+ $(document).ready(function() {
+ /* Vista Splash*/
+   setTimeout(function() {
+    window.location.href = 'views/index02.html';
   }, 5000);
 })
-  /*Función para redireccionar*/
+   
+   /*Función para redireccionar*/
   $("#sign-up").click(function () {
     window.location = '../views/index03.html'
   });
