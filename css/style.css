@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding:0;
+
+}
+
+/*Index*/
+
+.intro {
+    /*background-color: darkmagenta;*/
+    background: linear-gradient(to bottom right, purple, darkmagenta, magenta);
+    background-position: center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size:  cover;
+}
+
+.logo {
+    padding-top: 20rem;
+    padding-left: 8rem;
+    margin:1rem;
+    height: 80%;
+    width: 80%;
+}
+
+/*Index02*/
+.logo-sm {
+    height: 25%;
+    width: 25%;
+    margin: 2rem;
+    margin-left: 15rem;
+}
+
+#log-in,
+#sign-up {
+    margin-top: 45rem;
+
+
+/*Index03*/
+
+
+
+
