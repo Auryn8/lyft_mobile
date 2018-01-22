@@ -1,7 +1,7 @@
  $(document).ready(function() {
  /* Vista Splash*/
    setTimeout(function() {
-    window.location.href = 'views/index02.html';
+    window.location.href = 'index02.html';
   }, 5000);
 })
    

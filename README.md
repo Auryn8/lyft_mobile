@@ -16,7 +16,7 @@ Desarrolla una web-app que replique el sitio de Lyft, en este reto deberás cump
 
 - Ya que se ha realizado lo anterior, sólo se deberá mostrar una vista al usuario que le indique que ha concluido con el registro exitosamente. 
 
-![Sketch de flujo de Lyft](../assets/images/lyft_sketch_flujo.jpg)
+![Sketch de flujo de Lyft](assets/images/lyft_sketch_flujo.jpg)
 
 
 
